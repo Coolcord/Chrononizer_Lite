@@ -1,8 +1,3 @@
-Chrononizer_Lite
-================
-
-Upload files to your primary music library
-
 -=========================- About Chrononizer Lite -=========================-
 
 Chrononizer Lite is based off of Chrononizer v1.0.0. The goal of this project 
