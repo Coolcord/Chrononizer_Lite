@@ -16,7 +16,7 @@
 
 /* -=========================- About Chrononizer Lite -=========================-
  *  
- *  Chrononizer Lite is based off of Chrononizer v1.0.0. The goal of this project 
+ *  Chrononizer Lite is based off of Chrononizer v1.0.2. The goal of this project 
  *  was to make an application that could be used on a computer which is using
  *  a secondary music library. In this case, that computer is my laptop. With
  *  Chrononizer Lite, the laptop can now send any new files it has in its library
