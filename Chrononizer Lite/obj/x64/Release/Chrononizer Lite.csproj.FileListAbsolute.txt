@@ -1,0 +1,10 @@
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\bin\x64\Release\Chrononizer Lite.exe.config
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\bin\x64\Release\Chrononizer Lite.exe
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\bin\x64\Release\Chrononizer Lite.pdb
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\ResolveAssemblyReference.cache
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\Chrononizer_Lite.ChrononizerLite.resources
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\Chrononizer_Lite.Properties.Resources.resources
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\GenerateResource.read.1.tlog
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\GenerateResource.write.1.tlog
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\Chrononizer Lite.exe
+e:\documents\visual studio 2010\Projects\Chrononizer Lite\Chrononizer Lite\obj\x64\Release\Chrononizer Lite.pdb
