@@ -22,4 +22,4 @@ However, I intend to keep it open source. If anyone else wants to build
 something similar, they'll have the option of using my source code as a base.
 
 If you wish to contact me about the application, or anything of the like,
-feel free to send me an email at coolcord24@gmail.com
+feel free to send me an email at coolcord24@tutanota.com
